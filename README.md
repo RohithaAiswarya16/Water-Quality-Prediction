@@ -61,11 +61,10 @@ Ensure you have the following installed:
 - `notebooks/`
   - `Water_Quality_Prediction (1).ipynb`: Jupyter notebook for initial analysis and prediction.
   - `Water Quality Predictor.ipynb`: Jupyter notebook for further experiments and model refinement.
-- `presentation/`
-  - [Water_Quality_Prediction_Presentation.pptx](presentation/Water_Quality_Prediction_Presentation.pptx): Project presentation file.
+  - [Water_Quality_Prediction_Presentation.pptx](https://docs.google.com/presentation/d/1ojS1mSiq1LAd2W2w4Dqsi3THbp02_lbi/edit?usp=sharing&ouid=108999231108488370482&rtpof=true&sd=true): Project presentation file.
 - `README.md`
   - Project overview and setup instructions.
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+Contributions are welcome!

@@ -14,8 +14,8 @@ This repository is dedicated to predicting water quality using machine learning 
   - `Water_Quality_Prediction (1).ipynb`
   - `Water Quality Predictor.ipynb`
 - `README.md`: Overview of the project and instructions for getting started.
-- `presentation/`: Contains the project presentation.
-  - [Project Presentation](https://docs.google.com/presentation/d/1ojS1mSiq1LAd2W2w4Dqsi3THbp02_lbi/edit?usp=sharing&ouid=108999231108488370482&rtpof=true&sd=true)
+
+- [Project Presentation](https://docs.google.com/presentation/d/1ojS1mSiq1LAd2W2w4Dqsi3THbp02_lbi/edit?usp=sharing&ouid=108999231108488370482&rtpof=true&sd=true)
 
 ## Getting Started
 

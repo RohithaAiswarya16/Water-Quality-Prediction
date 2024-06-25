@@ -69,14 +69,3 @@ Ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! Please read the [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-We would like to thank all contributors and the community for their valuable inputs and support in making this project successful.
-```
-
-This README reflects the specific files in your repository and provides clear instructions for setup and usage, including a link to the project presentation. Feel free to adjust any part of it to better fit your project's specifics.
